@@ -19,7 +19,9 @@ In this project CURD operation is taken care using API.
 
 Please follow the below steps in order to execute the operations.
 
-Prerequisite 1: Below mentioned list of softwares need to be installed in testing machine.
+Prerequisite 1: Below mentioned list of softwares need to be installed in testing machine to run partner.py file
+python 3.7.6
+requests (by pip install requests)
 
 Prerequisite 2: Keep "partner.py" file in a folder.
 
